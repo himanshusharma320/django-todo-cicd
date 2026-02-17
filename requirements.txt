@@ -1,1 +1,6 @@
-django==3.2
+asgiref==3.11.1
+Django==3.2
+pytz==2025.2
+sqlparse==0.5.5
+typing_extensions==4.15.0
+django-prometheus
